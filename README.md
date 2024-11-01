@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnn</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate software engineer from Ecuador</h3>
 
 - 🔭 I’m currently working on **DMG ERP**
 
