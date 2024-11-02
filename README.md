@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Ecuador</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/johnn-ramirez-a5631a174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/johnn-ramirez-a5631a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/johnnramirez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/johnnedison.ramirezfueres" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.facebook.com/johnnedison.ramirezfueres" alt="Facebook"><img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=withe"/></a>
